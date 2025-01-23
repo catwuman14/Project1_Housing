@@ -22,22 +22,22 @@ Housing is one of the largest expenses for any household, and as cities continue
     4. Females pay a higher percentage of their income on rent in comparison to men.
 
 **Describe the methodology you are using, explaining the steps you took for data cleaning, analysis, etc.**
-    1. Chose the data set
-    2. Cleaned the data set
-        1. removed duplicate columns
-        2. standardised data values where related
-        3. checked % of null values in every column
-        4. removed outliers (i.e. living space and price per square meter)
-        5. bucketed condition values
-    3. Formulated Hypotheses
-    4. Merged the data sets
-    5. Wrangled the new data set
-        1. created new data frame with aggregations for average income 
-        2. created new data frame with aggregations for price per square metre
-        3. created new data frame with aggregation by sex and price per rental property
-        4. created various graphs to support our hypotheses
-    6. Chose the data set
-    7. Cleaned the data set
+1. Chose the data set
+2. Cleaned the data set
+- removed duplicate columns
+- standardised data values where related
+- checked % of null values in every column
+- removed outliers (i.e. living space and price per square meter)
+- bucketed condition values
+3. Formulated Hypotheses
+4. Merged the data sets
+5. Wrangled the new data set
+  - created new data frame with aggregations for average income
+  - created new data frame with aggregations for price per square metre
+  - created new data frame with aggregation by sex and price per rental property
+  - created various graphs to support our hypotheses
+6. Chose the data set
+7. Cleaned the data set
 
 **Conclusions**
     1. The larger the living space the cheaper the rent per meter squared. - FALSE
