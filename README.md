@@ -5,7 +5,7 @@ Title: **Housing Affordability in Germany**
 https://www.canva.com/design/DAGc16fPaN8/SJXwdzUSmtcRzh1m5QhxNA/edit?utm_content=DAGc16fPaN8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Introduction**
-Housing is one of the largest expenses for any household, and as cities continue to grow, housing affordability becomes an increasing concern for residents and policymakers alike. Which begs us all to think about, How much should a person's salary go towards rent?We want to analyse this problem 1) investigating factors that influence rental prices and 2) exploring the relationship between wages and rent based off both region and sex.
+Housing is one of the largest expenses for any household, and as cities continue to grow, housing affordability becomes an increasing concern for residents and policymakers alike. Which begs us all to think about, how much should a person's salary go towards rent? We want to analyse this problem 1) investigating factors that influence rental prices and 2) exploring the relationship between wages and rent based off both region and sex.
 
 **Data you are using (and comments, main challenges, strengths & weaknesses, etc…)**
 - income dataset: https://www.statistischebibliothek.de/mir/receive/DESerie_mods_00000301
@@ -49,4 +49,4 @@ Housing is one of the largest expenses for any household, and as cities continue
 - housing dataset: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany
 - income dataset: https://www.statistischebibliothek.de/mir/receive/DESerie_mods_00000301
 - inflation webscraping: https://www.inflation.eu/es/tasas-de-inflacion/alemania/inflacion-historica/ipc-inflacion-alemania-2018.aspx
-- [https://www.notion.so/1824b707679180b09545c1de84f5ef9c?v=1824b707679180e4bab4000c18cfa13a&p=1824b707679180ceb3bfe37dba1c506b&pm=s](https://www.notion.so/update-readme-file-1824b707679180ceb3bfe37dba1c506b?pvs=21)
+- kanban board: [https://www.notion.so/1824b707679180b09545c1de84f5ef9c?v=1824b707679180e4bab4000c18cfa13a&p=1824b707679180ceb3bfe37dba1c506b&pm=s](https://www.notion.so/update-readme-file-1824b707679180ceb3bfe37dba1c506b?pvs=21)
