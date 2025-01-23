@@ -1,5 +1,6 @@
 # Project1_Housing
 Title: **Housing Affordability in Germany**
+Presentation link: https://www.canva.com/design/DAGc16fPaN8/SJXwdzUSmtcRzh1m5QhxNA/edit?utm_content=DAGc16fPaN8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Introduction**
 Housing is one of the largest expenses for any household, and as cities continue to grow, housing affordability becomes an increasing concern for residents and policymakers alike. Which begs us all to think about, How much should a person's salary go towards rent?We want to analyse this problem 1) investigating factors that influence rental prices and 2) exploring the relationship between wages and rent based off both region and sex.
