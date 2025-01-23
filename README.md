@@ -35,13 +35,13 @@ Housing is one of the largest expenses for any household, and as cities continue
     6. Chose the data set
     7. Cleaned the data set
 
-**Conclusions:**
+**Conclusions**
     1. The larger the living space the cheaper the rent per meter squared. - FALSE
     2. Inflation is positively correlated to rental prices. - TRUE
     3. Rent as a proportion of salary is higher in more urban regions. - TRUE
     4. Females pay a higher percentage of their income on rent in comparison to men. -TRUE
 
-Links to data sources
+**Links to data sources**
     - housing dataset: https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany
     - income dataset: https://www.statistischebibliothek.de/mir/receive/DESerie_mods_00000301
     - inflation webscraping: https://www.inflation.eu/es/tasas-de-inflacion/alemania/inflacion-historica/ipc-inflacion-alemania-2018.aspx
